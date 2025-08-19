@@ -32,6 +32,8 @@ public class Theme {
 
     public String getHello(){ return "Hello";}
 
+    public String getShaurya(){return "shaurya";}
+
     public void setTextColor(String textColor) {
         this.textColor = textColor;
     }
