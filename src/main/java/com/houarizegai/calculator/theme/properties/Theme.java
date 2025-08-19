@@ -30,6 +30,8 @@ public class Theme {
         return textColor;
     }
 
+    public String getHello(){ return "Hello";}
+
     public void setTextColor(String textColor) {
         this.textColor = textColor;
     }
